@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/logva/static/css/main.89302210.css",
+    "main.js": "/logva/static/js/main.9d0aaf25.js",
+    "static/js/453.1b6cbde4.chunk.js": "/logva/static/js/453.1b6cbde4.chunk.js",
+    "static/media/logo.png": "/logva/static/media/logo.adb074d8e24e2bc77b88.png",
+    "index.html": "/logva/index.html",
+    "main.89302210.css.map": "/logva/static/css/main.89302210.css.map",
+    "main.9d0aaf25.js.map": "/logva/static/js/main.9d0aaf25.js.map",
+    "453.1b6cbde4.chunk.js.map": "/logva/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89302210.css",
+    "static/js/main.9d0aaf25.js"
+  ]
+}
